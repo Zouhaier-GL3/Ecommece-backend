@@ -1,0 +1,12 @@
+node_modules/
+
+
+# compiled output
+/E-commerce-project/dist
+/E-commerce-project/tmp
+/E-commerce-project/out-tsc
+# Only exists if Bazel was run
+/E-commerce-project/bazel-out
+
+# dependencies
+/E-commerce-project/node_modules
