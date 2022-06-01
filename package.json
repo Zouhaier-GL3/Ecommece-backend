@@ -27,6 +27,6 @@
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "pubnub": "^4.27.4",
-    "sharp": "^0.25.2"
+    "sharp": "^0.30.5"
   }
 }
